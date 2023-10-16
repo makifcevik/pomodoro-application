@@ -88,7 +88,6 @@ canvas.grid(column=1, row=1)
 
 
 label_title = Label(text="Timer", font=(FONT_NAME, 35, "bold"), foreground=GREEN, background=YELLOW)
-# label_title.config(padding=20)
 label_title.grid(column=1, row=0)
 
 button_start = Button(text="Start")
