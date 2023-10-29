@@ -2,7 +2,7 @@
 
 This is a simple Pomodoro timer application implemented in Python using the tkinter library. The Pomodoro Technique is a time management method that uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks. This application helps you stay focused and improve productivity.
 
-![Demo](./pomodoro_gif.gif)
+![Demo](./pomodoro_demo.gif)
 
 ## Features
 
