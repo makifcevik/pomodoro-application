@@ -8,6 +8,7 @@ This is a simple Pomodoro timer application implemented in Python using the tkin
 
 - Classic Pomodoro timer with work and break intervals.
 - User-friendly graphical interface using tkinter.
+- Feedback with a "completed" symbol after every work session.
 
 ## Prerequisites
 
