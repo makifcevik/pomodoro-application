@@ -22,4 +22,4 @@ To run this Pomodoro timer application, you need to have Python installed on you
 4. Run the application using the following command:
 
    ```bash
-   python pomodoro.py
+   python main.py
